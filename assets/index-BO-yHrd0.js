@@ -49,7 +49,7 @@ Error generating stack: `+e.message+`
           animation: fade-in-down 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
         }
       `}),(0,C.jsxs)(`div`,{className:`absolute inset-0 overflow-hidden pointer-events-none hidden sm:block transition-opacity duration-1000 ${a?`opacity-100`:`opacity-0`}`,children:[(0,C.jsx)(`div`,{className:`absolute -top-[20%] -right-[10%] w-[70vw] h-[70vw] max-w-[600px] max-h-[600px] rounded-full blur-[100px] transition-all duration-1000 bg-slate-600/10`}),(0,C.jsx)(`div`,{className:`absolute -bottom-[20%] -left-[10%] w-[60vw] h-[60vw] max-w-[500px] max-h-[500px] rounded-full blur-[100px] transition-all duration-1000 bg-teal-900/10`})]}),(0,C.jsx)(`div`,{className:`
-          relative z-10 w-full h-full max-w-[400px] mx-auto sm:aspect-auto sm:h-[min(750px,85vh)]
+          relative z-10 w-full h-full max-w-[400px] mx-auto sm:aspect-auto sm:h-[min(750px,95vh)]
           rounded-none sm:rounded-[36px]
           border-none sm:border sm:border-white/10
           overflow-hidden
